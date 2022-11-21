@@ -1,0 +1,18 @@
+ [
+
+ 	{
+ 		"companyName": "A",
+ 		"firstName": "Tom",
+ 		"lastName": "Cruise"
+ 	},
+ 	{
+ 		"companyName": "B",
+ 		"firstName": "Maria",
+ 		"lastName": "Sharapova"
+ 	},
+ 	{
+ 		"companyName": "C",
+ 		"firstName": "James",
+ 		"lastName": "Bond"
+ 	}
+ ]
